@@ -91,7 +91,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Derek Hall - twitter.com/Hderek22 - Hderek22@gmail.com
 
-Project Link: [https://github.com/Hderek22/Hderek22](https://github.com/Hderek22/Hderek22)
+Project Link: [https://github.com/Hderek22/Real_Estate_app
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
