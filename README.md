@@ -89,7 +89,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - (https://twitter.com/Hderek22) - Hderek22@gmail.com
+Derek Hall - twitter.com/Hderek22 - Hderek22@gmail.com
 
 Project Link: [https://github.com/Hderek22/Hderek22](https://github.com/Hderek22/Hderek22)
 
