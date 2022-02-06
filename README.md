@@ -31,7 +31,7 @@
 <h3 align="center">Proptech Real Estate Applications</h3>
 
   <p align="center">
-    A Real Estate application for making quick and informed decisions!
+    A real estate application for making quick and informed decisions!
     
 </div>
 
