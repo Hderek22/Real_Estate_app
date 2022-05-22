@@ -78,7 +78,7 @@ Using this real estate application will allow you to simply point and hover over
 
 
 <!-- LICENSE -->
-## License
+### License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -87,7 +87,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+### Contact
 
 Derek Hall - twitter.com/Hderek22 - Hderek22@gmail.com
 
@@ -98,7 +98,7 @@ Project Link: [https://github.com/Hderek22/Real_Estate_app
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+### Acknowledgments
 
 * UNCC Fintech Bootcamp Faculty & Team Members - Class Commencing 11-17-2021
 * https://github.com/othneildrew/Best-README-Template
